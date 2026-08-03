@@ -1,0 +1,20 @@
+.home-hero {
+  min-height: calc(100vh - 11rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.home-hero h1 {
+  margin: 0;
+  color: #111;
+  font-size: clamp(3rem, 9vw, 7rem);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+
+[data-md-color-primary="white"] .md-header {
+  box-shadow: none;
+  border-bottom: 1px solid #eee;
+}

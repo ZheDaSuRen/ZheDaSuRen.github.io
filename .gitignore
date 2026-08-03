@@ -1,0 +1,10 @@
+# MkDocs 构建后自动生成的网站文件
+site/
+
+# Python 自动生成的缓存文件夹
+**/__pycache__/
+**pycache**/
+
+# macOS 自动生成的文件夹信息
+.DS_Store
+
