@@ -1,11 +1,11 @@
 site_name: Learning With Fjj
-site_description: 冯俊杰的数字 IC、FPGA、计算机体系结构与 AI 加速器技术主页和知识库
-site_author: 冯俊杰
+site_description: Soda的数字 IC、FPGA、计算机体系结构与 AI 加速器技术主页和知识库
+site_author: Soda
 site_url: https://zhedasuren.github.io/
 repo_url: https://github.com/ZheDaSuRen/ZheDaSuRen.github.io
 repo_name: ZheDaSuRen/ZheDaSuRen.github.io
 edit_uri: ""
-copyright: Copyright &copy; 2026 冯俊杰
+copyright: Copyright &copy; 2026 Soda
 
 theme:
   name: material
