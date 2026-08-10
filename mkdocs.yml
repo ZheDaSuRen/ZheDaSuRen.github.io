@@ -1,21 +1,20 @@
-site_name: 我的网站名称
+site_name: Learning With Fjj
 site_description: 一个简洁的个人学习网站
 
-theme:
-  name: material
-  language: zh
+theme: 
+  name: readthedocs
   palette:
-    scheme: default
-    primary: white
-    accent: indigo
-  features:
-    - navigation.tabs
-    - navigation.top
+    primary: blue
+    accent: light blue
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 nav:
   - 主页: index.md
-  - 学习内容:
-      - 学习内容首页: course/index.md
+  - 关于我: about_me/me.md
+  - 主要内容:
+      - 秋招准备: course/index.md
       - 示例课程: course/example.md
   - 友链: friends/index.md
   - 关于: about/index.md

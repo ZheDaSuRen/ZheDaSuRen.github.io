@@ -1,4 +1,4 @@
 <div class="home-hero">
-  <h1>我的网站名称</h1>
+  <h1>FJJ个人网站</h1>
 </div>
 
