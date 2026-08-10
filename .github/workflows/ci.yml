@@ -21,8 +21,8 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: 安装 MkDocs Material
-        run: pip install mkdocs-material
+      - name: 安装网站依赖
+        run: pip install -r requirements.txt
 
       - name: 构建网站
         run: mkdocs build --strict
