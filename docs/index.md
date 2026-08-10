@@ -1,6 +1,6 @@
 ---
 title: 首页
-description: 冯俊杰的数字 IC、FPGA、计算机体系结构与 AI 加速器技术主页
+description: Soda的数字 IC、FPGA、计算机体系结构与 AI 加速器技术主页
 hide:
   - navigation
   - toc
@@ -9,7 +9,7 @@ hide:
 <div class="home-page">
   <section class="home-hero" aria-labelledby="hero-title">
     <p class="home-eyebrow">PERSONAL ENGINEERING PORTFOLIO</p>
-    <h1 id="hero-title">冯俊杰</h1>
+    <h1 id="hero-title">Soda</h1>
     <p class="home-subtitle">Digital IC · FPGA · AI Accelerator</p>
     <p class="home-intro">
       关注数字 IC 设计、FPGA 系统与计算机体系结构，持续整理
